@@ -1,4 +1,4 @@
-def introduction (Dan)
+def introduction
 end
 
 
